@@ -1,0 +1,60 @@
+#header {
+      background-color:black;
+      color:white;
+      text-align:center;
+      padding:5px;
+height: 93px;
+ }
+
+
+#nav {
+      line-height:30px;
+      background-color:#eeeeee;
+      height:500px;
+      width:100px;
+    align:left;
+      float: left;
+      padding:5px;       
+ }
+
+
+#footer {
+      width:100%;
+    height:80px;
+      position:absolute;
+      bottom:0;
+    left:0;
+      background-color:black;
+      color:white;
+      clear:both;
+      text-align:center;
+      padding:5px; 
+}
+
+
+#blogspot {
+position: fixed;
+top: 150px;
+right: 50px; 
+width: 600px;
+background-color: #CCFFFF;
+padding: 10px;
+}
+
+
+#video {
+position: fixed;
+top: 140px;
+left: 190px;
+}
+
+
+#question {
+position: fixed;
+top: 700px;
+left: 190px;
+width: 400px;
+background-color: #CCFFFF;
+padding: 10px;
+width 400px;
+}

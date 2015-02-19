@@ -1,0 +1,43 @@
+<!Home Page>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<link rel="stylesheet" href="style.css">
+   
+</style>
+</head>
+
+<body>
+
+
+
+<div id="blogspot">
+<h2 style="text-align:center">BlogSpot</h2>
+<p>
+Girls in Computer Science Stats <br> 
+<ul>
+<li>NCWIT (National Center for Women & Informational Technology) states that 1.2 million computing jobs available in 2022, US universities are only producing 39% of the graduates needed to fill them.</li>
+<li>In 2012, 18% of computer science college graduates were women, this percentage went down from 37% in 1985.</li>
+<li>6 women programmed one of the most famous computers in history – the 30 ton eniac for the US army during WWII.</li> 
+<li>Women only hold 25% of all information tech jobs.</li>
+</ul>
+</p>
+</div>
+
+<div id="question">
+  <h2 style="text-align:center">Questions</h2>
+</div>
+
+<div id="video">
+  <p>
+<iframe width="854" height="510" src="https://www.youtube.com/embed/DYBPotROKC8" frameborder="0" allowfullscreen></iframe>
+  </p>
+</div>
+
+
+
+</body>
+</html>

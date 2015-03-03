@@ -1,7 +1,7 @@
 <!Home Page>
 
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
 
 <head>
 
@@ -13,31 +13,52 @@
 <body>
 
 
+<div id="header">
+ 	<img src="Logo.jpg" alt=“Logo” style="width:90px" height="90px" align="left">
+ 	<h1>WATT Coding Club</h1>
+</div>
+     
+<div id="nav">
+ 	<a href="homepage.html">Home</a><br>
+ 	<a href="whoweare.html">Who We Are</a><br>
+    <a href="calendar.html">Calendar</a><br>
+ 	<a href="club.html">Club</a><br>
+ 	<a href="resources.html">Resources</a><br>
+</div>
+    
+<div id="footer">
+  	WATT Coding
+</div>
+    
 
 <div id="blogspot">
 <h2 style="text-align:center">BlogSpot</h2>
-<p>
-Girls in Computer Science Stats <br> 
-<ul>
-<li>NCWIT (National Center for Women & Informational Technology) states that 1.2 million computing jobs available in 2022, US universities are only producing 39% of the graduates needed to fill them.</li>
-<li>In 2012, 18% of computer science college graduates were women, this percentage went down from 37% in 1985.</li>
-<li>6 women programmed one of the most famous computers in history – the 30 ton eniac for the US army during WWII.</li> 
-<li>Women only hold 25% of all information tech jobs.</li>
-</ul>
-</p>
+    <p>
+        Girls in Computer Science Stats <br> 
+        <ul>
+            <li>NCWIT (National Center for Women & Informational Technology) states that 1.2 million computing jobs available in 2022, US universities are only producing 39% of the                     graduates needed to fill them.</li>
+            <li>In 2012, 18% of computer science college graduates were women, this percentage went  down from 37% in 1985.</li>
+            <li>6 women programmed one of the most famous computers in history – the 30 ton eniac for the US army during WWII.</li> 
+            <li>Women only hold 25% of all information tech jobs.</li>
+        </ul>
+    </p>
 </div>
+
 
 <div id="question">
-  <h2 style="text-align:center">Questions</h2>
+    <h2 style="text-align:center">Questions</h2>
 </div>
 
+
 <div id="video">
-  <p>
-<iframe width="854" height="510" src="https://www.youtube.com/embed/DYBPotROKC8" frameborder="0" allowfullscreen></iframe>
-  </p>
+    <p>
+        <!<iframe width="854" height="510" src="https://www.youtube.com/embed/DYBPotROKC8" frameborder="0" allowfullscreen></iframe>
+        <embed width="405" height="300" src="https://www.youtube.com/embed/DYBPotROKC8">                                                      
+    </p>
 </div>
 
 
 
 </body>
 </html>
+ 

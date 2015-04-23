@@ -1,0 +1,205 @@
+<!DOCTYPE html> 
+  <html> 
+    <head>  
+       Who We Are Page 
+     </head> 
+     <body>
+        <table>
+              <tr>
+                <th>
+                    <img src="MackenziePic.jpg" alt="MackenzieProfilePic" style="width:300;height:400">
+                </th>
+                <th>
+                    <p>
+                        Mackenzie Jorgensen <br>
+                        WATT Position: Founder, Head of Directors, Club Teacher at Our Lady of the Lake School and St.                               Joseph's School, Web Developer <br>
+                        Middle School: Our Lady of the Lake <br>
+                        Current High School: Holy Names Academy <br>
+                        Hobbies and Interests: When I am not coding, teaching for WATT, or doing homework, I am Irish                                 dancing, spending time with my family, hanging out with my friends, or travelling. 
+                        Why she likes computer science: I love computer science because you can do anything you want with it.                         It has endless possibilities and is extremely powerful. Also, the problem solving aspect to it has                           always kept me fascinated in the field as well. 
+                    </p>
+                </th>
+            </tr>
+            <tr>
+                <th>
+                    <p>Picture coming soon</p>
+                </th>
+                <th>
+                    <p>
+                        Laura DeBoldt <br>
+                        WATT Position: Founder, Head Web Developer Director, Club Teacher at Our Lady of the Lake School <br>
+                        Middle School: Holy Family Kirland <br>
+                        Current High School: Holy Names Academy <br>
+                        Hobbies and Interests: <br>
+                        Why she likes computer science: 
+                    </p>
+                </th>
+            </tr>
+            <tr>
+                <th>
+                    <img src="FrancesPic.jpg" alt="FrancesProfilePic" style="width:300;height:400">
+                </th>
+                <th>
+                    <p>
+                        Frances Hausmann <br> 
+                        WATT Position: Business Board of Director <br> 
+                        Middle School: Sacred Heart <br> 
+                        Current High School: Holy Names Academy <br>
+                        Hobbies and Interests: School and sports are a big part of my life. Since freshman year I’ve been a                           part of Sammamish Rowing Association where I’ve fallen in love with the sport of rowing and all of my                         teammates. In addition to rowing, I have a passion for essentially all outdoor sports, especially                             skiing, hiking, and running. In attending Holy Names Academy I have realized my appreciation for STEM                         based courses and their applicability to everyday life. I obviously have a strong interest in                                 Computer Science and I aspire to introduce more women to the many important careers in STEM. <br>
+                        Why she likes computer science: My interest in computer science has greatly increased since beginning                         the AP Computer Science course at Holy Names. The problem solving required for completing the                                 projects has helped me in all other class subjects, especially other math classes. I also have a                             strong appreciation for Comp Sci because computer programming is becoming relevant in essentially all                         professional fields. I see a deficiency of women in Computer Science and I want to do all that I can                         to change that.        
+                    </p>
+                </th>
+            </tr>
+            <tr>
+                <th>
+                    <img src="SamiPic.jpg" alt="SamiProfilePic" style="width:300;height:400">
+                </th>
+                <th>
+                    <p>
+                        Sami Robbins <br>
+                        WATT Position: Marketing Board of Director <br>
+                        Middle School: Madison Middle School <br>
+                        Current High School: Holy Names Academy <br>
+                        Hobbies and Interests: I started swimming when I was one and joined a team when I was nine. I have                           state records in the 100 butterfly. I am captain of my High school team and truly love being part of                         the team. In 2013, I started coaching a disable swim team called Shadow Seals. It's truly inspiring                           to see people reach their full potential in and out of the water. <br>
+                        Why she likes computer science: Holy Names Academy and my peers have introduced me to the fastly                             growing field of computer science. Although I have not taken computer science at Holy Names yet, I                           have taken quite a few arts classes which is critical for the computer science field with the                                 graphical design aspect of it, which has helped me market WATT and all we do for women in computer                           science. 
+                    </p>
+                </th>
+            </tr>
+            <tr>
+                <th>
+                    <img src="LindseyPic.jpg" alt="LindseyProfilePic" style="width:300;height:400">
+                </th>
+                <th>
+                    <p>
+                        Lindsey Cleary <br>
+                        WATT Position: Web Developer <br>
+                        Middle School: Holy Family Kirkland
+                        Current High School: Holy Names Academy <br>
+                        Hobbies and Interests: I went to Holy Family Kirkland. I play basketball, soccer, and enjoy playing                           bass, and hiking. <br>
+                        Why she likes computer science: I like how computer science provides an opportunity to create while                           encouraging to learn how to do more types of coding.
+                    </p>
+                </th>
+            </tr>
+            <tr>
+                <th>
+                    <img src=KendallPic.jpg" alt="KendallProfilePic" style="width:300;height:400">
+                </th>
+                <th>
+                    Kendall Matt <br>
+                    WATT Position: Club Teacher at St. Joseph's School <br>
+                    Middle School: St. Anne's <br>
+                    Current High School: Holy Names Academy <br>
+                    Hobbies and Interests: I am on the HNA crew team and basketball team. My favorite thing to do is be                           outside: running, hiking, or skiing. I am also a music-enthusiast and love to sing and play guitar. <br>
+                    Why she likes computer science:  I love how the logical thinking needed in computer science is applicable                     to other subjects and life in general, and it is very important to me that women realize the potential                       they all have for the STEM workplace. Before taking computer science, I found computers very                                 intimidating, seeing them only in the cinematically dramatized, world-conquering approach, so it's nice                       to know that we are actually in control and can tell them what to do. In this way, computer science opens                     my mind to endless possibilities and I am excited to share these with others.
+                </th>
+            </tr>
+            <tr>
+                <th>
+                    <img src="KatePic.png" alt="KateProfilePic" style="width:300;height:400">
+                </th>
+                <th>
+                    <p>
+                        Kate Peaquin <br>
+                        WATT Position: Club Teacher at St. Anne's School <br>
+                        Middle School: St. Anne's <br>
+                        Current High School: Holy Names Academy <br>
+                        Hobbies and Interests: I do fencing and robotics. <br>
+                        Why she likes computer science: I love computer science because it allows you to solve real world                             problems using a computer and your brain.
+                    </p>
+                </th>
+            </tr>
+                <tr>
+                <th>
+                    <p>Picture coming soon</p>
+                </th>
+                <th>
+                    <p>
+                        Allie Kehl <br>
+                        WATT Position: Club Teacher at St. Anne's School <br>
+                        Middle School: St. Anne's <br>
+                        Current High School: Holy Names Academy <br>
+                        Hobbies and Interests:  <br>
+                        Why she likes computer science: 
+                    </p>
+                </th>
+            </tr>
+            <tr>
+            <tr>
+                <th>
+                    <img src="CoriPic.jpg" alt="CoriProfilePic" style="width:300;height:400">
+                </th>
+                <th>
+                    <p>
+                        Cori Johnston <br>
+                        WATT Position: Club Teacher at Our Lady of the Lake School <br>
+                        Middle School: Assumption St. Bridget <br>
+                        Current High School: Holy Names Academy <br>
+                        Hobbies and Interests: I dance ballet, jazz, and lyrical. I love to read and listen to music, as well                         as go on walks with my dogs. <br>
+                        Why she likes computer science: I love the freedom that computer science gives me. I like being able                         to explore my creativity by creating whatever I want. I also like the challenge of figuring out how                           to write difficult code. Computer science empowers me and helps me feel confident in myself.
+                    </p>
+                </th>
+            </tr>
+            <tr>
+                <th>
+                      <p>Picture coming soon </p>
+                </th>
+                <th>
+                    <p>
+                        Katherine Hill <br>
+                        WATT Position: Club Teacher at Our Lady of the Lake School <br>
+                        Middle School: Our Lady of the Lake <br>
+                        Current High School: Holy Names Academy <br>
+                        Hobbies and Interests: Soccer, swimming, reading (a lot) <br>
+                        Why she likes computer science: I like that it gets you to stretch your mind. It gives me                                     opportunities to discover if I want to get a job in the tech world.
+                    </p>
+                </th>
+            </tr>
+            <tr>
+                <th>
+                    <img src="JuliaPic.jpg" alt="JuliaProfilePic" style="width:300;height:400">
+                </th>
+                <th>
+                    <p>
+                        Julia Koh <br>
+                        WATT Position: Club Teacher at St. Joseph's School <br>
+                        Middle School: St. Joseph <br>
+                        Current High School: Holy Names Academy <br>
+                        Hobbies and Interests: Photography, skateboarding, volleyball <br>
+                        Why she likes computer science: When I think about computer science I always compare it to space.                             Like space, computer science seemed like a so unknown to me. It was simply a topic that was too                               difficult and gigantic for my mind to even grasp. Though, when I started learning comp sci, it was                           crazy that I could understand and create something that I had always just been a user for, and I                             began to understand the unknown and that was so satisfying. 
+                    </p>
+                </th>
+            </tr>
+            <tr>
+                <th>
+                    <img src="MadisonPic.jpg" alt="MadisonProfilePic" style="width:300;height:400">
+                </th>
+                <th>
+                    <p>
+                        Madison Laughlin <br>
+                        WATT Position: Club Teacher at St. Joseph's School <br>
+                        Middle School: St. Joseph <br>
+                        Current High School: Holy Names Academy <br>
+                        Hobbies and Interests: Swimming, Shopping, Watching TV, and Eating. <br>
+                        Why she likes computer science: I like that I can create something innovative and interesting without                         having to work super hard. It’s something easy to do that’s super important to our world.
+                    </p>
+                </th>
+            </tr>
+            <tr>
+                <th>
+                    <img src="AeronPic.jpg" alt="AeronProfilePic" style="width:300;height:400">
+                </th>
+                <th>
+                    <p>
+                        Aeron Langford <br>
+                        WATT Position: Club Teacher at St. Joseph's School <br>
+                        Middle School: Hamilton International Middle School <br>
+                        Current High School: Holy Names Academy <br>
+                        Hobbies and Interests: I started dance when I was three years old; I currently take dance Ballet,                             Pointe, Irish, Jazz, and Lyrical. I am a member of the All That Dance Honor Club and the All That                             Dance Company. I also love music and play the harp. I participate in the Holy Names Academy Orchestra                         and am a member of the Northwest Youth Harp Ensemble. <br>
+                        Why she likes computer science: Computer Science gives me the opportunity to pursue my natural love                           of solving puzzles. By increasing my knowledge of computer science, I hope to learn more about the                           field and how I might contribute to the future of this field.
+                    </p>
+                </th>
+            </tr>
+  
+        </table>
+     </body>
+  </html> 
